@@ -24,5 +24,7 @@ print(lines_list)
 # for c in text_str:
 #     print("hello form 27:", c)
 
-for word_str in text_str.split():
-    print(word_str)
+# for word_str in text_str.split():
+#     print(word_str)
+
+#### 

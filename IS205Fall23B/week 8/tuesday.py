@@ -11,4 +11,4 @@ for c_str in text_str:
     print(c_str)
 
 # for line_str in lines_list:
-#     print('hello from 14', line_str)
+#     print('hello from 14', line_str)*
