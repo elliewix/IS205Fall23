@@ -8,6 +8,8 @@ text_str = infile.read()
 # the content is now in text
 # close the connection to the infile
 infile.close()
+
+
 print(text_str)
 
 # lines from a string

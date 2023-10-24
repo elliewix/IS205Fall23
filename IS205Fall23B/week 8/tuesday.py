@@ -12,3 +12,5 @@ for c_str in text_str:
 
 # for line_str in lines_list:
 #     print('hello from 14', line_str)*
+
+text_str.splitlines()

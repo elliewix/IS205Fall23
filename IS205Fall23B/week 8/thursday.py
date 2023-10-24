@@ -1,6 +1,7 @@
 infile = open("Three-years-in-europe-1.txt", "r", encoding="utf-8")
 text_str = infile.read()
 lines_list = text_str.splitlines()
+
 infile.close()
 
 print(lines_list[:10])
