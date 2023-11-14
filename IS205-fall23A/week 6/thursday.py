@@ -2,9 +2,9 @@ import string
 
 print(string.punctuation)
 
-word = "___hello. (There don't"
+phrase = "___hello. (There don't"
 for punc in string.punctuation:
-    word = word.replace(punc, "")
+    phrase = phrase.replace(punc, "")
 
 print(word)
 
